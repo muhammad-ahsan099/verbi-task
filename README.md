@@ -28,7 +28,7 @@ npm install
 ```bash
 npm run dev
 ```
-Open the app in your browser at http://localhost:5173
+3. Open the app in your browser at http://localhost:5173
 
 ## Testing
 
